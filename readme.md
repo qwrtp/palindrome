@@ -1,6 +1,6 @@
 # Phrase object (with palindrome detector)
 
-This is a sample NPM moduke created in [*Learn enough JavaScript to Be Dangerous*](https://www.learnenough.com/javasxript-tutorial) by Michael Hartl.
+This is a sample NPM module created in [*Learn enough JavaScript to Be Dangerous*](https://www.learnenough.com/javasxript-tutorial) by Michael Hartl.
 
 The module can be used as follows:
 
